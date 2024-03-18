@@ -84,4 +84,3 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juli0f&show_icons=true&locale=es" alt="juli0f" /><p/>
